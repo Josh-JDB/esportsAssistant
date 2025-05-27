@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=eSports Assistant
+PRODUCT_BUNDLE_IDENTIFIER=io.github.josh_jdb.esportsassistant.eSportsAssistant$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
